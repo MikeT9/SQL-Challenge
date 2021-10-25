@@ -7,7 +7,7 @@ The goal of this project was to explore the employee database and answer a numbe
 PostgresAdmin was used to import the information together into DB tables by building schemas. 
 SQL query was used to query the data
 
-![ERD](images/Emp_Data_Model.png)
+![ERD](Images/Emp_Data_Model.png)
 
 ## DATA
 All data in our tables was imported from .CSVs containg the given table information:
@@ -18,7 +18,7 @@ All data in our tables was imported from .CSVs containg the given table informat
 - salaries	
 - titles	
 
-![Data](images/Schema_Text.png)
+![Data](Images/Schema_Text.png)
 
 ## SQL Queries
 
@@ -33,5 +33,5 @@ I ran a number of sql queries based on the following business requests
 - List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 - In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-![SQL Queries](images/SQL_query.png)
+![SQL Queries](Images/SQL_query.png)
 
